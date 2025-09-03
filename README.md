@@ -1,5 +1,6 @@
 # Hospital-Patient-Visit-Analysis
 The dataset contains 120 hospital visits, with details on patients, departments, visit types, acuity, and costs. Using Power BI, the data was cleaned and analyzed to uncover trends in demographics, emergencies, departmental performance, and financial outcomes for better hospital planning.
+
 <img width="860" height="484" alt="Screenshot 2025-09-02 153030" src="https://github.com/user-attachments/assets/0a8a9fc1-4712-4e87-8f4d-a59cd341f33f" />
 
 # Executive Summary
