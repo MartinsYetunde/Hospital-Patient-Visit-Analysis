@@ -1,0 +1,121 @@
+VisitID,PatientID,Age,Gender,Department,VisitDate,VisitType,Severity,Cost
+V1000,P55,18,Male,Emergency,2024-01-01,Regular,2,10873
+V1001,P49,8,Male,Dermatology,2024-01-04,Emergency,4,30321
+V1002,P53,55,Male,Dermatology,2024-01-07,Regular,4,6636
+V1003,P23,31,Female,Cardiology,2024-01-10,Regular,2,31791
+V1004,P31,13,Female,Dermatology,2024-01-13,Emergency,5,20363
+V1005,P24,68,Male,Orthopedics,2024-01-16,Regular,3,19595
+V1006,P37,26,Male,Oncology,2024-01-19,Emergency,1,20712
+V1007,P54,63,Female,Pediatrics,2024-01-22,Regular,3,23622
+V1008,P33,43,Male,Neurology,2024-01-25,Regular,5,13024
+V1009,P20,60,Female,Cardiology,2024-01-28,Regular,5,30189
+V1010,P55,90,Male,General Medicine,2024-01-31,Regular,3,6458
+V1011,P20,68,Female,General Medicine,2024-02-03,Regular,3,19330
+V1012,P51,16,Male,Cardiology,2024-02-06,Emergency,4,35441
+V1013,P49,45,Female,General Medicine,2024-02-09,Emergency,1,41870
+V1014,P41,4,Female,Oncology,2024-02-12,Emergency,2,24223
+V1015,P9,67,Female,General Medicine,2024-02-15,Emergency,3,43455
+V1016,P42,11,Male,Orthopedics,2024-02-18,Regular,4,12351
+V1017,P29,34,Female,Cardiology,2024-02-21,Emergency,1,26988
+V1018,P52,69,Male,Dermatology,2024-02-24,Regular,5,41301
+V1019,P35,15,Female,Dermatology,2024-02-27,Regular,5,27746
+V1020,P30,87,Male,Oncology,2024-03-01,Emergency,4,14806
+V1021,P31,83,Female,Dermatology,2024-03-04,Emergency,4,16613
+V1022,P5,4,Female,Dermatology,2024-03-07,Emergency,2,36794
+V1023,P11,85,Female,Dermatology,2024-03-10,Emergency,3,22657
+V1024,P15,14,Male,General Medicine,2024-03-13,Emergency,3,44869
+V1025,P52,36,Male,Cardiology,2024-03-16,Emergency,1,40091
+V1026,P34,54,Male,General Medicine,2024-03-19,Regular,3,27070
+V1027,P57,28,Male,Orthopedics,2024-03-22,Emergency,4,37421
+V1028,P58,31,Male,Cardiology,2024-03-25,Emergency,4,31796
+V1029,P47,25,Female,Cardiology,2024-03-28,Regular,4,47618
+V1030,P34,73,Female,Pediatrics,2024-03-31,Regular,5,8751
+V1031,P27,1,Male,Dermatology,2024-04-03,Regular,1,45491
+V1032,P42,41,Female,Dermatology,2024-04-06,Emergency,4,28513
+V1033,P18,13,Male,Emergency,2024-04-09,Emergency,2,14422
+V1034,P8,74,Female,Dermatology,2024-04-12,Regular,2,44933
+V1035,P43,86,Male,Pediatrics,2024-04-15,Emergency,5,44442
+V1036,P48,73,Male,Pediatrics,2024-04-18,Regular,1,34520
+V1037,P32,83,Male,Orthopedics,2024-04-21,Emergency,2,17099
+V1038,P54,90,Female,Dermatology,2024-04-24,Regular,2,18755
+V1039,P7,59,Female,Cardiology,2024-04-27,Emergency,2,21242
+V1040,P23,13,Female,Cardiology,2024-04-30,Emergency,1,8704
+V1041,P24,55,Female,Pediatrics,2024-05-03,Regular,2,25441
+V1042,P21,20,Female,Oncology,2024-05-06,Regular,1,36621
+V1043,P52,83,Male,Neurology,2024-05-09,Regular,2,18048
+V1044,P40,89,Female,Oncology,2024-05-12,Regular,2,13742
+V1045,P4,88,Female,Cardiology,2024-05-15,Regular,4,17210
+V1046,P26,31,Female,Orthopedics,2024-05-18,Regular,5,38466
+V1047,P17,80,Female,Emergency,2024-05-21,Emergency,5,19315
+V1048,P36,10,Female,Cardiology,2024-05-24,Emergency,1,23128
+V1049,P47,83,Male,Emergency,2024-05-27,Regular,1,28729
+V1050,P22,12,Female,Orthopedics,2024-05-30,Emergency,1,33471
+V1051,P22,41,Female,Pediatrics,2024-06-02,Emergency,5,31277
+V1052,P46,24,Female,Oncology,2024-06-05,Emergency,3,30531
+V1053,P60,59,Female,Orthopedics,2024-06-08,Regular,4,20710
+V1054,P8,42,Female,General Medicine,2024-06-11,Regular,5,28290
+V1055,P56,25,Female,Oncology,2024-06-14,Regular,3,8915
+V1056,P10,30,Female,General Medicine,2024-06-17,Regular,4,7742
+V1057,P41,28,Male,Orthopedics,2024-06-20,Regular,4,31402
+V1058,P18,11,Female,Neurology,2024-06-23,Regular,2,25840
+V1059,P59,4,Male,Cardiology,2024-06-26,Emergency,5,36822
+V1060,P42,64,Male,Pediatrics,2024-06-29,Regular,5,47193
+V1061,P59,51,Male,Pediatrics,2024-07-02,Emergency,2,18455
+V1062,P33,40,Female,Dermatology,2024-07-05,Emergency,4,20965
+V1063,P36,33,Male,Dermatology,2024-07-08,Emergency,2,46428
+V1064,P45,19,Male,Dermatology,2024-07-11,Regular,5,32279
+V1065,P33,49,Male,Orthopedics,2024-07-14,Regular,5,18997
+V1066,P25,3,Female,Cardiology,2024-07-17,Regular,3,10498
+V1067,P49,89,Female,Oncology,2024-07-20,Emergency,1,41596
+V1068,P18,40,Male,Oncology,2024-07-23,Emergency,1,47280
+V1069,P48,60,Female,Pediatrics,2024-07-26,Emergency,1,16175
+V1070,P10,45,Male,Emergency,2024-07-29,Emergency,1,40828
+V1071,P17,77,Male,General Medicine,2024-08-01,Emergency,5,23481
+V1072,P53,7,Male,Orthopedics,2024-08-04,Emergency,5,40787
+V1073,P59,1,Male,Orthopedics,2024-08-07,Emergency,2,10260
+V1074,P11,43,Female,Orthopedics,2024-08-10,Regular,1,8905
+V1075,P13,81,Female,Dermatology,2024-08-13,Emergency,5,40145
+V1076,P57,34,Female,Dermatology,2024-08-16,Regular,4,12166
+V1077,P7,45,Male,Orthopedics,2024-08-19,Emergency,4,9456
+V1078,P20,72,Male,Pediatrics,2024-08-22,Regular,5,29089
+V1079,P51,13,Male,Cardiology,2024-08-25,Emergency,1,41201
+V1080,P39,27,Male,Orthopedics,2024-08-28,Regular,2,17016
+V1081,P26,87,Male,Neurology,2024-08-31,Emergency,5,49677
+V1082,P33,40,Male,Emergency,2024-09-03,Regular,1,17600
+V1083,P54,70,Female,Emergency,2024-09-06,Regular,5,49978
+V1084,P51,82,Male,Oncology,2024-09-09,Emergency,2,23052
+V1085,P40,22,Female,General Medicine,2024-09-12,Regular,1,38610
+V1086,P54,15,Male,Emergency,2024-09-15,Emergency,5,49809
+V1087,P12,3,Male,Neurology,2024-09-18,Emergency,1,38487
+V1088,P2,62,Male,Orthopedics,2024-09-21,Regular,1,33157
+V1089,P41,55,Female,General Medicine,2024-09-24,Regular,2,31130
+V1090,P56,36,Male,Dermatology,2024-09-27,Regular,5,31070
+V1091,P12,11,Female,Oncology,2024-09-30,Emergency,2,9789
+V1092,P42,39,Female,Emergency,2024-10-03,Regular,1,10946
+V1093,P23,27,Female,Orthopedics,2024-10-06,Regular,4,25149
+V1094,P32,38,Female,Pediatrics,2024-10-09,Emergency,1,32331
+V1095,P26,25,Female,Cardiology,2024-10-12,Regular,2,32937
+V1096,P14,87,Male,Dermatology,2024-10-15,Regular,5,14474
+V1097,P7,44,Male,Dermatology,2024-10-18,Regular,2,40105
+V1098,P31,61,Female,Cardiology,2024-10-21,Emergency,1,42460
+V1099,P12,48,Female,General Medicine,2024-10-24,Regular,3,20108
+V1100,P7,83,Male,Emergency,2024-10-27,Regular,2,18579
+V1101,P7,61,Female,Emergency,2024-10-30,Regular,4,10406
+V1102,P33,6,Male,General Medicine,2024-11-02,Emergency,1,8412
+V1103,P58,58,Female,Oncology,2024-11-05,Emergency,5,19831
+V1104,P5,54,Female,Dermatology,2024-11-08,Regular,2,18928
+V1105,P57,46,Male,Pediatrics,2024-11-11,Regular,5,26459
+V1106,P16,45,Male,Pediatrics,2024-11-14,Emergency,5,45443
+V1107,P54,18,Male,Cardiology,2024-11-17,Regular,3,47257
+V1108,P24,56,Male,Emergency,2024-11-20,Emergency,2,44500
+V1109,P23,55,Female,Emergency,2024-11-23,Regular,3,32845
+V1110,P7,64,Male,Pediatrics,2024-11-26,Emergency,2,33295
+V1111,P50,8,Female,Cardiology,2024-11-29,Emergency,4,31032
+V1112,P9,35,Male,Neurology,2024-12-02,Regular,5,49052
+V1113,P24,53,Female,General Medicine,2024-12-05,Emergency,2,11321
+V1114,P26,28,Female,Emergency,2024-12-08,Regular,2,45727
+V1115,P54,64,Female,Oncology,2024-12-11,Regular,1,47631
+V1116,P23,78,Male,Cardiology,2024-12-14,Regular,4,10832
+V1117,P1,21,Female,Orthopedics,2024-12-17,Emergency,4,13701
+V1118,P1,3,Female,Oncology,2024-12-20,Regular,4,12567
+V1119,P53,75,Female,Oncology,2024-12-23,Regular,2,38121
